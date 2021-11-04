@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.01a069b4.chunk.css",
-    "main.js": "/static/js/main.7d3b1142.chunk.js",
-    "main.js.map": "/static/js/main.7d3b1142.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2ae9b85e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2ae9b85e.js.map",
-    "static/js/2.3799eddb.chunk.js": "/static/js/2.3799eddb.chunk.js",
-    "static/js/2.3799eddb.chunk.js.map": "/static/js/2.3799eddb.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.01a069b4.chunk.css.map": "/static/css/main.01a069b4.chunk.css.map",
-    "static/js/2.3799eddb.chunk.js.LICENSE.txt": "/static/js/2.3799eddb.chunk.js.LICENSE.txt"
+    "main.css": "/starberry-task/static/css/main.01a069b4.chunk.css",
+    "main.js": "/starberry-task/static/js/main.6578232c.chunk.js",
+    "main.js.map": "/starberry-task/static/js/main.6578232c.chunk.js.map",
+    "runtime-main.js": "/starberry-task/static/js/runtime-main.05b81357.js",
+    "runtime-main.js.map": "/starberry-task/static/js/runtime-main.05b81357.js.map",
+    "static/js/2.c4a86dfe.chunk.js": "/starberry-task/static/js/2.c4a86dfe.chunk.js",
+    "static/js/2.c4a86dfe.chunk.js.map": "/starberry-task/static/js/2.c4a86dfe.chunk.js.map",
+    "index.html": "/starberry-task/index.html",
+    "static/css/main.01a069b4.chunk.css.map": "/starberry-task/static/css/main.01a069b4.chunk.css.map",
+    "static/js/2.c4a86dfe.chunk.js.LICENSE.txt": "/starberry-task/static/js/2.c4a86dfe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ae9b85e.js",
-    "static/js/2.3799eddb.chunk.js",
+    "static/js/runtime-main.05b81357.js",
+    "static/js/2.c4a86dfe.chunk.js",
     "static/css/main.01a069b4.chunk.css",
-    "static/js/main.7d3b1142.chunk.js"
+    "static/js/main.6578232c.chunk.js"
   ]
 }
