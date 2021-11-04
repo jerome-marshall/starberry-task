@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/starberry-task/static/css/main.01a069b4.chunk.css",
-    "main.js": "/starberry-task/static/js/main.6578232c.chunk.js",
-    "main.js.map": "/starberry-task/static/js/main.6578232c.chunk.js.map",
+    "main.js": "/starberry-task/static/js/main.d0381944.chunk.js",
+    "main.js.map": "/starberry-task/static/js/main.d0381944.chunk.js.map",
     "runtime-main.js": "/starberry-task/static/js/runtime-main.05b81357.js",
     "runtime-main.js.map": "/starberry-task/static/js/runtime-main.05b81357.js.map",
     "static/js/2.c4a86dfe.chunk.js": "/starberry-task/static/js/2.c4a86dfe.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.05b81357.js",
     "static/js/2.c4a86dfe.chunk.js",
     "static/css/main.01a069b4.chunk.css",
-    "static/js/main.6578232c.chunk.js"
+    "static/js/main.d0381944.chunk.js"
   ]
 }
